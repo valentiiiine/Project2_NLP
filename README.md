@@ -35,12 +35,3 @@ For a final academic submission, the notebooks should be presented as complement
 - Some notebooks install additional packages such as `gensim`; if the environment already includes them, the install cells act as dependency checks.
 - Neural and transformer results can vary slightly across runs, so the reported outputs should be interpreted as approximate but comparable benchmarks.
 
-## Suggested README Improvements If You Submit This Repository
-
-If you want to strengthen the repository even further before submission, consider adding the following:
-
-- A short abstract summarizing the dataset, tasks, and main findings.
-- A `Requirements` section listing the main Python libraries used in the notebooks.
-- A `Results Summary` section with 3 to 5 key takeaways from the full project.
-- A `Limitations` section discussing translation noise, label ambiguity, class imbalance, and computational constraints.
-- A short note clarifying which outputs were generated locally and which ones may need re-execution in a fresh environment.
