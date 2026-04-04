@@ -1,7 +1,7 @@
 # NLP Project 2: Insurance Review Analysis
 
 This repository contains the full workflow for an academic NLP project on French insurance reviews. The project moves from data cleaning and translation to supervised modelling and unsupervised theme discovery. The notebooks are written to support a final academic submission, which means they aim to justify methodological choices, preserve intermediate outputs, and discuss limitations rather than only report final scores.
-
+Video link : https://youtu.be/NMORyr359G8 
 ## Project Structure
 
 - [data_exploration_clean.ipynb](/Users/vincentlemeur/Documents/S8/DIA/NLP/Project 2/data_exploration_clean.ipynb) prepares the raw data, documents the exploratory analysis, corrects and translates the text, and exports `dataset_cleaned.csv`.
